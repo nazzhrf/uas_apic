@@ -1,5 +1,7 @@
 # Parametric NTT/INTT Hardware
 
+NOT MINE
+
 Cuman biar gampang dicline antar device
 
 Akan segera dihapus 
